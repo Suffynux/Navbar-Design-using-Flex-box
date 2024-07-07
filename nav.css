@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo img {
+
+    width: 200px;
+
+}
+
+
+body{
+    background-color: black;
+}
+
+nav {
+    height: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.right ul {
+    gap: 34px;
+    display: flex;
+
+}
+
+.right li {
+    list-style: none;
+}
+
+
+
+
+
+
+
