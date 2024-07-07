@@ -33,7 +33,7 @@ Additional styles and functionality may be added as needed.
 ## Author
 
 * Sufiyan
-* Suffnux@gmail.com
+* Suffynux@gmail.com
 
 
 
